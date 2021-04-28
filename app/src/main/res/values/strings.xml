@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Green Thumb</string>
+    <string name="profile_name">Name: Dee Falt</string>
+    <string name="page_description">Page Description: \nThe crepe myrtles are among the most satisfactory of plants for the South: showy summer flowers, attractive bark, and (in many cases) brilliant fall color make them year-round garden performers.</string>
+    <string name="usda_zone">USDA Zone: ?</string>
+    <string name="create_post">Create Post</string>
+    <string name="post_text">Something Interesting</string>
+    <string name="edit_page_button">Edit Page</string>
+    <string name="search_button">Search</string>
+    <string name="logout_button">Logout</string>
+    <string name="save_btn">Save</string>
+    <string name="description_header">Enter a short Description about your page.</string>
+    <string name="check_btn">Check Zone</string>
+    <string name="not_sure_header">Not Sure?</string>
+    <string name="usda_zone_edit">USDA Zone</string>
+    <string name="back_btn">back</string>
+    <string name="first_name_edit">Full Name</string>
+    <string name="select_zone">Select Zone</string>
+    <string name="usernameET">Email</string>
+    <string name="passwordET">Password</string>
+    <string name="loginBtn">Login</string>
+
+    <string-array name="USDA_zones_array">
+        <item>USDA Zone: 1a</item>
+        <item>USDA Zone: 1b</item>
+        <item>USDA Zone: 2a</item>
+        <item>USDA Zone: 2b</item>
+        <item>USDA Zone: 3a</item>
+        <item>USDA Zone: 3b</item>
+        <item>USDA Zone: 4a</item>
+        <item>USDA Zone: 4b</item>
+        <item>USDA Zone: 5a</item>
+        <item>USDA Zone: 5b</item>
+        <item>USDA Zone: 6a</item>
+        <item>USDA Zone: 6b</item>
+        <item>USDA Zone: 7a</item>
+        <item>USDA Zone: 7b</item>
+        <item>USDA Zone: 8a</item>
+        <item>USDA Zone: 8b</item>
+        <item>USDA Zone: 9a</item>
+        <item>USDA Zone: 9b</item>
+        <item>USDA Zone: 10a</item>
+        <item>USDA Zone: 10b</item>
+        <item>USDA Zone: 11a</item>
+        <item>USDA Zone: 11b</item>
+        <item>USDA Zone: 12a</item>
+        <item>USDA Zone: 12b</item>
+        <item>USDA Zone: 13a</item>
+        <item>USDA Zone: 13b</item>
+    </string-array>
+</resources>
